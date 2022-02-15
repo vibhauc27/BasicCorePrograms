@@ -2,18 +2,16 @@
 
 namespace BasicCoreProgram
 {
-    public class LeapYear
+    public class PowerOfTwo
     {
         public static void Main(string[] args)
         {
-           
-            Console.WriteLine("Enter the Year : ");
-            int year = Convert.ToInt32(Console.ReadLine());
-
-            if (((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0))
-                Console.WriteLine("This is a leap year" + year);
-            else
-                Console.WriteLine("This is not a leap year" + year);
+            Console.WriteLine("Enter the value");
+            int value = Convert.ToInt32(Console.ReadLine());
+            for (int i = 0; i <= value; i++)
+            {
+                Console.WriteLine("2^{0} " + " " + "= {1}", i, Math.Pow(2, i));
+            }
         }
     }
 }
