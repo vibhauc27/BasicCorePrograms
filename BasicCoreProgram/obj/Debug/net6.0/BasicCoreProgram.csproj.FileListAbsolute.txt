@@ -1,0 +1,15 @@
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.csproj.AssemblyReference.cache
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.AssemblyInfoInputs.cache
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.AssemblyInfo.cs
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.csproj.CoreCompileInputs.cache
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\BasicCoreProgram.exe
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\BasicCoreProgram.deps.json
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\BasicCoreProgram.runtimeconfig.json
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\BasicCoreProgram.dll
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\ref\BasicCoreProgram.dll
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\bin\Debug\net6.0\BasicCoreProgram.pdb
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.dll
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\ref\BasicCoreProgram.dll
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.pdb
+C:\Users\vindy\source\repos\BasicCoreProgram\BasicCoreProgram\obj\Debug\net6.0\BasicCoreProgram.genruntimeconfig.cache
