@@ -1,14 +1,13 @@
 ﻿using System;
-
 namespace BasicCoreProgram
 {
-    internal class Program
+    class program
     {
-       static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Class1 class1 = new Class1();
-            class1.vowelndConso();
 
+            Class2 class1 = new Class2();
+            class1.Compute();
         }
     }
 }
