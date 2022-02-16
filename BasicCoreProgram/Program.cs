@@ -1,23 +1,26 @@
 ﻿using System;
 
+
 namespace BasicCoreProgram
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            int number;
-            Console.WriteLine("Enter the Number ");
-            number = Convert.ToInt32(Console.ReadLine());
+            int num1 = 2, num2 = 3, num;
+            Console.WriteLine("Current numbers are : " );
+            Console.Write("First Number : " + num1);
+            Console.Write("\nSecond Number : " + num2);
+            num = num1;
+            num1 = num2;
+            num2 = num;
+            Console.WriteLine("\nSwapping numbers are : ");
+            Console.Write("First Number : " + num1);
+            Console.Write("\nSecond Number : " + num2);
+           
 
-            if (number % 2 == 0)
-            {
-                Console.WriteLine("is Even number", number);
-            }
-            else
-            {
-                Console.WriteLine("is Odd number", number);
-            }
+            
+
         }
     }
 }
