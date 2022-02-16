@@ -2,15 +2,21 @@
 
 namespace BasicCoreProgram
 {
-    public class PowerOfTwo
+    public class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Enter the value");
-            int value = Convert.ToInt32(Console.ReadLine());
-            for (int i = 0; i <= value; i++)
+            int number;
+            Console.WriteLine("Enter the Number ");
+            number = Convert.ToInt32(Console.ReadLine());
+
+            if (number % 2 == 0)
             {
-                Console.WriteLine("2^{0} " + " " + "= {1}", i, Math.Pow(2, i));
+                Console.WriteLine("is Even number", number);
+            }
+            else
+            {
+                Console.WriteLine("is Odd number", number);
             }
         }
     }
