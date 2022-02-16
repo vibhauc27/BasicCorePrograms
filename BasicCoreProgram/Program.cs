@@ -6,8 +6,8 @@ namespace BasicCoreProgram
         static void Main(string[] args)
         {
 
-            Class2 class1 = new Class2();
-            class1.Compute();
+            Class1 class1 = new Class1();
+            class1.Calculate();
         }
     }
 }
